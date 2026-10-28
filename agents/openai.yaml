@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Skills"
+  short_description: "Biomedical review writing and visual structure"
+  default_prompt: "Use $review-skills to plan, draft, revise, or visually audit a biomedical review article."
